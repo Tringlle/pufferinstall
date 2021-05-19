@@ -15,3 +15,14 @@ echo "Panel Installed"
 echo ""
 echo "Initiating Initial User Creation"
 pufferpanel user add
+admin
+admin@support.com
+admin1
+admin1
+y
+echo "User Created:"
+echo ""
+echo "Username: admin"
+echo "Email: admin@support.com"
+echo "Password: admin1"
+echo "Link: https://localhost:8080"
